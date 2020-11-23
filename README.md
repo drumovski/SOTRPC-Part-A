@@ -16,7 +16,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Members - signup, login, logout, members authorization (Mongo DB).
 
-  - Admin access for some members - add/edit/remove members, add/edit/remove classes (Mongo DB).
+  - Admin access for some members - edit/remove members, add/edit/remove classes (Mongo DB).
 
   - Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. Viewable by members. (Mongo DB).
 
@@ -110,9 +110,28 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ## Mark
 
-  Mark is a 60 years old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
+Mark is a 60 years old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
 
 Mark's son gave him an idea of having a good website for the club which could be very beneficial for promoting the club to the next level. Mark gave the task of creating the website to Vipul and Jason who are the students at Coders Academy, Melbourne. Mark wants to have an admin functionality to the website so that he can perform certain tasks.
+
+### Mark's stories
+
+- As an admin, I want to have complete rights to edit and remove the members so that I can manage and test the database.
+- As an admin, I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
+- As an admin, I want to have the ability to edit and remove the links of the social media websites so that I can ensure that users navigate to right page.
+
+## Julie
+
+Julie is a retired lady who lives close to the South of the River Potters Club with her husband. She likes gardening and cooking. Her children come to visit her once a month. She has a lot of spare time nowadays but she does not have enough work to do. She is living a monotonous life.
+
+One day her husband told her about the nearby pottery club and she got very excited after seeing their website. She immediately decided to join the club as she really liked the ideas of the club and it will also give her the opportunity to socialize with other people.
+
+Julie's stories
+
+- As a user, I want a good user interface, so that I can navigate to different parts of the website easily.
+- As a user, I want to sign up for the website so that I can become a member of the club.
+- As a user, I want my credentials to be persistent in the database so that I can log in and logout of my account securely.
+- As a user, I want to have a profile, so that I can edit my personal details and check which classes I have already booked in.
 
 ###### 6.0 to >5.0 pts
 

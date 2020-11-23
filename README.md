@@ -2,23 +2,19 @@
 
 A Joint Venture by Jason Stacy and Vipul Seth for Coder Academy Melbourne.
 
-
-
-
-
 ### Description of your website
 
-This is a Website for the South of the River Potters Club which is a pottery club in Alfred Cove, Western Australia. 
+This is a Website for the South of the River Potters Club which is a pottery club in Alfred Cove, Western Australia.
 
 - ##### Purpose
 
-  The South of the River Potters Club (SOTRPC) is undergoing some renovations to significantly improve and expand their premises in 2021. In line with this they plan on offering new classes for members and additional features such as kiln hiring. They currently have a [website](http://members.iinet.net.au/~atwelart/SORPC/index.html) but were looking to make it better with additional features. This website will meet that need. 
+  The South of the River Potters Club (SOTRPC) is undergoing some renovations to significantly improve and expand their premises in 2021. In line with this they plan on offering new classes for members and additional features such as kiln hiring. They currently have a [website](http://members.iinet.net.au/~atwelart/SORPC/index.html) but were looking to make it better with additional features. This website will meet that need.
 
 - ##### Functionality / features
 
   Must haves:
 
-  - Members - signup, login, logout, members authorisation (Mongo DB).
+  - Members - signup, login, logout, members authorization (Mongo DB).
 
   - Admin access for some members - add/edit/remove members, add/edit/remove classes (Mongo DB).
 
@@ -30,71 +26,60 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Gallery of photos - displays art work from the club.
 
-    
-
     Nice to haves:
 
-  - Class Scheduling version v2 - members are able to 'signup' for a class. 
+  - Class Scheduling version v2 - members are able to 'signup' for a class.
 
-  - Class Scheduling version v3 - members are able to 'signup' for a class and receive email notification. 
+  - Class Scheduling version v3 - members are able to 'signup' for a class and receive email notification.
 
   - Gallery of photos v2 - displays art work from the club. Admin able to add/edit/remove via AWS S3.
 
-  - Newsletter archive -  Admin able to add/remove. Viewable by members.
+  - Newsletter archive - Admin able to add/remove. Viewable by members.
 
   - Newsletter archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Meeting minutes archive -  Admin able to add/remove. Viewable by members.
+  - Meeting minutes archive - Admin able to add/remove. Viewable by members.
 
-  - Meeting minutes archive v2 -  Admin able to add/remove via AWS S3. Viewable by members.
+  - Meeting minutes archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time.
-    
+  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time.
 
 - ##### Target audience
 
-- ##### Tech stack 	GENERAL
+- ##### Tech stack GENERAL
 
-  
+  ### Dataflow Diagram
 
-  
+  ###### .0 to >5.0 pts
 
-  ### Dataflow Diagram 
-
-  ###### .0                  to >5.0 pts                
-
-  ###### Provides dataflow diagram(s) that strictly follow the standard convensions to  clearly identify the processes within your application. Clearly depicts  where data is coming from, where it is going and how it is being stored.
-
-  
-
-  
+  ###### Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
 
   ### Application Architecture Diagram
 
-  ######                   6.0                  to >5.0 pts                
+  ###### 6.0 to >5.0 pts
 
   ###### Shows almost flawless understanding of the high level structure of the app
 
-  
-
   ### User Stories
 
-  ######                   6.0                  to >5.0 pts                
+  ## Mark
 
-  ###### Provides multiple user stories that use ‘persona, what and why’ that outline  meaningful features of project. Shows evidence of user story revision  and refinement.
+  Mark is a 60 years old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
 
-  
+Mark's son gave him an idea of having a good website for the club which could be very beneficial for promoting the club to the next level. Mark gave the task of creating the website to Vipul and Jason who are the students at Coders Academy, Melbourne. Mark wants to have an admin functionality to the website so that he can perform certain tasks.
 
-  ### Wireframes for multiple standard screen sizes, created using industry standard software 
+###### 6.0 to >5.0 pts
 
-  ######                   12.0                  to >10.0 pts                
+###### Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
 
-  ###### Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content  prioritisation, intended actions, functions, relationships between  screens.
+### Wireframes for multiple standard screen sizes, created using industry standard software
 
-  
+###### 12.0 to >10.0 pts
 
-  ### Screenshots of your Trello board throughout the duration of the project
+###### Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
 
-  ######                   6.0                  to >5.0 pts                
+### Screenshots of your Trello board throughout the duration of the project
 
-  ###### Simple and clear standards for planning methodology chosen and adhered to
+###### 6.0 to >5.0 pts
+
+###### Simple and clear standards for planning methodology chosen and adhered to

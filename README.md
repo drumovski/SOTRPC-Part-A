@@ -8,7 +8,7 @@ A Joint Venture by Jason Stacy and Vipul Seth for Coder Academy Melbourne.
 
 ### Description of your website
 
-This is a Website for the South of the River Potters Club which is a pottery club in Alfred Cove, Western Australia. After meetings with pottery club members, they were keen to include features that Vipul and I were concerned would be too advanced for the scope of this assignment. They were also concerned that after the assignment was submitted that we may not be able to continue developing the website. Due to this, the club decided that they may not use the final website but would create one themselves using Squarespace. Vipul and I understood this but were happy to continue with the website regardless. 
+This is a Website for the South of the River Potters Club which is a pottery club in Alfred Cove, Western Australia. 
 
 - ##### Purpose
 

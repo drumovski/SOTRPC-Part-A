@@ -20,7 +20,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Members - signup, login, logout, members authorisation (Mongo DB).
 
-  - Admin access for some members - add/edit/remove members, add/edit/remove content (Mongo DB).
+  - Admin access for some members - add/edit/remove members, add/edit/remove classes (Mongo DB).
 
   - Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. Viewable by members. (Mongo DB).
 
@@ -28,7 +28,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Links to Facebook, Instagram
 
-  - Gallery of photos - displays art work from the club (Uses local file system).
+  - Gallery of photos - displays art work from the club.
 
     
 
@@ -40,15 +40,15 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Gallery of photos v2 - displays art work from the club. Admin able to add/edit/remove via AWS S3.
 
-  - Newsletter archive -  Admin able to add/edit/remove. Viewable by members (Uses local file system)
+  - Newsletter archive -  Admin able to add/remove. Viewable by members.
 
-  - Newsletter archive v2 - Admin able to add/edit/remove via AWS S3. Viewable by members.
+  - Newsletter archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Meeting minutes archive -  Admin able to add/edit/remove. Viewable by members (Uses local file system)
+  - Meeting minutes archive -  Admin able to add/remove. Viewable by members.
 
-  - Meeting minutes archive v2 -  Admin able to add/edit/remove via AWS S3. Viewable by members
+  - Meeting minutes archive v2 -  Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Kiln bookings -  Admin able to add/edit/remove kilns. Members are able to book kiln time.
+  - Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time.
     
 
 - ##### Target audience

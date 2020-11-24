@@ -47,19 +47,20 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 - ##### Target audience
 
 - ##### Tech stack GENERAL
-=======
+
+  =======
+
   - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
 
   - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
 
-  - Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
-    
+  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
 - ##### Target audience
 
-  Primarily SOTRPC members and prospective members as well as anyone interested in Pottery. 
+  Primarily SOTRPC members and prospective members as well as anyone interested in Pottery.
 
-- ##### Tech stack 	GENERAL
+- ##### Tech stack GENERAL
 
   ###### Backend:
 
@@ -91,8 +92,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   Figma
 
-  ERD: 
-
+  ERD:
 
   ### Dataflow Diagram
 
@@ -102,13 +102,15 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ### Application Architecture Diagram
 
-  ###### 6.0 to >5.0 pts
+![Application Architecture Diagram](./docs/AAD.png)
 
-  ###### Shows almost flawless understanding of the high level structure of the app
+###### 6.0 to >5.0 pts
 
-  ### User Stories
+###### Shows almost flawless understanding of the high level structure of the app
 
-  ## Mark
+### User Stories
+
+## Mark
 
 Mark is a 60 years old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
 
@@ -160,6 +162,7 @@ Julie's stories
 - Trello board Day-2.2
 
 ![Trello board Day-1](./docs/Trello-Day2.2.png)
+
 ###### 6.0 to >5.0 pts
 
 ###### Simple and clear standards for planning methodology chosen and adhered to

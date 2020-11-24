@@ -47,14 +47,13 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 - ##### Target audience
 
 - ##### Tech stack GENERAL
-=======
-  - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
-
-  - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
-
-  - Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
+- Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
+  
+- Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
+  
+- Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
     
-
+  
 - ##### Target audience
 
   Primarily SOTRPC members and prospective members as well as anyone interested in Pottery. 

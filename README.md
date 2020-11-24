@@ -145,6 +145,21 @@ Julie's stories
 
 ### Screenshots of your Trello board throughout the duration of the project
 
+- Trello board Day-1.1
+
+![Trello board Day-1](./docs/Trello-Day1.1.png)
+
+- Trello board Day-1.2
+
+![Trello board Day-1](./docs/Trello-Day1.2.png)
+
+- Trello board Day-2.1
+
+![Trello board Day-1](./docs/Trello-Day2.1.png)
+
+- Trello board Day-2.2
+
+![Trello board Day-1](./docs/Trello-Day2.2.png)
 ###### 6.0 to >5.0 pts
 
 ###### Simple and clear standards for planning methodology chosen and adhered to

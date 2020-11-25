@@ -49,14 +49,10 @@ This is a Website for the South of the River Potters Club which is a pottery clu
   - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
 
   - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
-  
+
 - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
-  
 - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
-  
-- Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
-    
-  
+- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
 - ##### Target audience
 

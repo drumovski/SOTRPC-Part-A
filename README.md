@@ -49,14 +49,10 @@ This is a Website for the South of the River Potters Club which is a pottery clu
   - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
 
   - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
-  
+
 - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
-  
 - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
-  
-- Kiln bookings -  Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
-    
-  
+- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
 - ##### Target audience
 
@@ -98,11 +94,13 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ### Dataflow Diagram
 
-  ###### .0 to >5.0 pts
+![DataFlow Diagram](./docs/DFD.png)
 
-  ###### Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+###### .0 to >5.0 pts
 
-  ### Application Architecture Diagram
+###### Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+
+### Application Architecture Diagram
 
 ![Application Architecture Diagram](./docs/AAD.png)
 
@@ -120,9 +118,11 @@ Mark's son gave him an idea of having a good website for the club which could be
 
 ### Mark's stories
 
-- As an admin, I want to have complete rights to edit and remove the members so that I can manage and test the database.
-- As an admin, I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
-- As an admin, I want to have the ability to edit and remove the links of the social media websites so that I can ensure that users navigate to right page.
+- As a admin
+  - I want to have complete rights to edit and remove the members so that I can manage and test the database.
+  - I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
+  - I want to have the ability to edit and remove the links of the social media websites so that I can ensure that users navigate to right page.
+- As a user, I want a good user interface, so that I can navigate to different parts of the website easily.
 
 ## Julie
 

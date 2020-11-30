@@ -12,13 +12,13 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
 - ##### Functionality / features
 
-  Must haves:
+  ###### Must haves:
 
   - Members - signup, login, logout, members authorization (Mongo DB).
 
   - Admin access for some members - edit/remove members, add/edit/remove classes (Mongo DB).
 
-  - Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. Viewable by members. (Mongo DB).
+  - Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. (Mongo DB).
 
   - Club History - Information on the history of the club with photos if possible.
 
@@ -26,7 +26,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Gallery of photos - displays art work from the club.
 
-    Nice to haves:
+    ###### Nice to haves:
 
   - Class Scheduling version v2 - members are able to 'signup' for a class.
 
@@ -50,9 +50,11 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
-- Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
-- Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
-- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
+  - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
+
+  - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
+
+  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
 - ##### Target audience
 
@@ -88,7 +90,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   Trello
 
-  Figma
+  Miro
 
   ERD:
 
@@ -110,38 +112,69 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
 ### User Stories
 
-## Mark
+#### Mark (Admin)
 
-Mark is a 60 years old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
+Mark is a 60 year old man, who has been living in Alfred Cove, Western Australia with his wife for the last 30 years. He works part-time as a handyman. He has been an active member of South of the River Potters Club for 10 years. He has been recently elected as the president of the club. He is currently working on upgrading the club premises. He wants more people from the local community to join the club so that they can avail all the services offered by the club and this will also lead to empowering the club financially.
 
 Mark's son gave him an idea of having a good website for the club which could be very beneficial for promoting the club to the next level. Mark gave the task of creating the website to Vipul and Jason who are the students at Coders Academy, Melbourne. Mark wants to have an admin functionality to the website so that he can perform certain tasks.
 
-### Mark's stories
+#### Mark's stories 
 
-- As a admin
-  - I want to have complete rights to edit and remove the members so that I can manage and test the database.
-  - I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
-  - I want to have the ability to edit and remove the links of the social media websites so that I can ensure that users navigate to right page.
-- As a user, I want a good user interface, so that I can navigate to different parts of the website easily.
+- I want to have complete rights to edit and remove the members so that I can manage and test the database.
+- I want the ability to update members paid status when they make a payment to the bank account.
+- I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
+- I want the ability to upload or delete minutes allowing members to download them.
+- I want the ability to upload and or delete new newsletters so members can download them.
+- I want to be able to view the history of the club.
+- I want to be able to view the photos in the gallery to see examples of other members work.
+- I want the ability to add/remove photos to the gallery to allow other users to view them.
+- I want the ability to make other members admins so they can also assist me with maintaining the website.
 
-## Julie
+
+
+#### Julie (Member)
 
 Julie is a retired lady who lives close to the South of the River Potters Club with her husband. She likes gardening and cooking. Her children come to visit her once a month. She has a lot of spare time nowadays but she does not have enough work to do. She is living a monotonous life.
 
-One day her husband told her about the nearby pottery club and she got very excited after seeing their website. She immediately decided to join the club as she really liked the ideas of the club and it will also give her the opportunity to socialize with other people.
+One day her husband told her about the nearby pottery club and she got very excited after seeing their website. She immediately decided to join the club as she really liked the ideas of the club and it will also give her the opportunity to socialise with other people.
 
-Julie's stories
+#### Julie's stories
 
-- As a user, I want a good user interface, so that I can navigate to different parts of the website easily.
-- As a user, I want to sign up for the website so that I can become a member of the club.
-- As a user, I want my credentials to be persistent in the database so that I can log in and logout of my account securely.
-- As a user, I want to have a profile, so that I can edit my personal details and check which classes I have already booked in.
+- I want a good user interface, so that I can navigate to different parts of the website easily.
+- I want my credentials to be persistent in the database so that I can log in and logout of my account securely.
+- I want to have a profile, so that I can edit my personal details.
+- I want to be able to view the history of the club.
+- I want to be able to view the photos in the gallery to see examples of other members work.
+- I should not be able to add or remove photos to the gallery.
+- I should not be able to view members details.
+- I want the ability to download minutes of the club meetings to see what was discussed.
+- I want the ability to download past newsletters in case I miss anything.
+
+#### Sandra (Potential Member)
+
+Sandra is a nurse that is looking to start a new hobby. She has a friend in the club who has recommended that she take up pottery. She has a cat called Mittens. 
+
+- I want a good user interface, so that I can navigate to different parts of the website easily.
+- I want to be able to view the history of the club.
+- I want to be able to see what classes are available if I did become a member.
+- I want to be able to view the photos in the gallery to see examples of what  members create.
+- I should not be able to add or remove photos to the gallery.
+- I want the ability to sign up to become a member.
+- I should not be able to view members details.
+- I should not be able to view any minutes from club meetings.
+- I should not be able to view any past newsletters.
+
+
 
 ###### 6.0 to >5.0 pts
 
 ###### Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
+
+[]: https://miro.com/app/board/o9J_lec-hEk=/
+
+
 
 ###### 12.0 to >10.0 pts
 

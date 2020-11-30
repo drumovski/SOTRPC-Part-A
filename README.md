@@ -165,6 +165,12 @@ Julie's stories
 
 ![Trello board Day-1](./docs/Trello-Day2.2.png)
 
+- Trello board Day-3.1
+  ![Trello board Day-3](./docs/Trello-Day3.1.png)
+
+- Trello board Day-3.2
+  ![Trello board Day-3](./docs/Trello-Day3.2.png)
+
 ###### 6.0 to >5.0 pts
 
 ###### Simple and clear standards for planning methodology chosen and adhered to

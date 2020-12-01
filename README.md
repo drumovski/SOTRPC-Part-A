@@ -96,7 +96,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ### Dataflow Diagram
 
-![DataFlow Diagram](./docs/DFD.png)
+![DataFlow Diagram](./docs/dfd.png)
 
 ###### .0 to >5.0 pts
 
@@ -118,7 +118,7 @@ Mark is a 60 year old man, who has been living in Alfred Cove, Western Australia
 
 Mark's son gave him an idea of having a good website for the club which could be very beneficial for promoting the club to the next level. Mark gave the task of creating the website to Vipul and Jason who are the students at Coders Academy, Melbourne. Mark wants to have an admin functionality to the website so that he can perform certain tasks.
 
-#### Mark's stories 
+#### Mark's stories
 
 - I want to have complete rights to edit and remove the members so that I can manage and test the database.
 - I want the ability to update members paid status when they make a payment to the bank account.
@@ -129,8 +129,6 @@ Mark's son gave him an idea of having a good website for the club which could be
 - I want to be able to view the photos in the gallery to see examples of other members work.
 - I want the ability to add/remove photos to the gallery to allow other users to view them.
 - I want the ability to make other members admins so they can also assist me with maintaining the website.
-
-
 
 #### Julie (Member)
 
@@ -152,19 +150,17 @@ One day her husband told her about the nearby pottery club and she got very exci
 
 #### Sandra (Potential Member)
 
-Sandra is a nurse that is looking to start a new hobby. She has a friend in the club who has recommended that she take up pottery. She has a cat called Mittens. 
+Sandra is a nurse that is looking to start a new hobby. She has a friend in the club who has recommended that she take up pottery. She has a cat called Mittens.
 
 - I want a good user interface, so that I can navigate to different parts of the website easily.
 - I want to be able to view the history of the club.
 - I want to be able to see what classes are available if I did become a member.
-- I want to be able to view the photos in the gallery to see examples of what  members create.
+- I want to be able to view the photos in the gallery to see examples of what members create.
 - I should not be able to add or remove photos to the gallery.
 - I want the ability to sign up to become a member.
 - I should not be able to view members details.
 - I should not be able to view any minutes from club meetings.
 - I should not be able to view any past newsletters.
-
-
 
 ###### 6.0 to >5.0 pts
 
@@ -173,8 +169,6 @@ Sandra is a nurse that is looking to start a new hobby. She has a friend in the 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
 
 []: https://miro.com/app/board/o9J_lec-hEk=/
-
-
 
 ###### 12.0 to >10.0 pts
 

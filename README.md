@@ -6,111 +6,121 @@ A Joint Venture by Jason Stacy and Vipul Seth for Coder Academy Melbourne.
 
 This is a Website for the South of the River Potters Club which is a pottery club in Alfred Cove, Western Australia.
 
-- ##### Purpose
+##### Purpose
 
-  The South of the River Potters Club (SOTRPC) is undergoing some renovations to significantly improve and expand their premises in 2021. In line with this they plan on offering new classes for members and additional features such as kiln hiring. They currently have a [website](http://members.iinet.net.au/~atwelart/SORPC/index.html) but were looking to make it better with additional features. This website will meet that need.
+The South of the River Potters Club (SOTRPC) is undergoing some renovations to significantly improve and expand their premises in 2021. In line with this they plan on offering new classes for members and additional features such as kiln hiring. They currently have a [website](http://members.iinet.net.au/~atwelart/SORPC/index.html) but were looking to make it better with additional features. This website will meet that need.
 
-- ##### Functionality / features
+##### Functionality / features
 
-  ###### Must haves:
+###### Must haves:
 
-  - Members - signup, login, logout, members authorization (Mongo DB).
+- Members - signup, login, logout, members authorization (Mongo DB).
 
-  - Admin access for some members - edit/remove members, add/edit/remove classes (Mongo DB).
+- Admin access for some members - edit/remove members, add/edit/remove classes (Mongo DB).
 
-  - Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. (Mongo DB).
+- Class scheduling - Starting with a simple add/edit/remove event with information for prospective students. (Mongo DB).
 
-  - Club History - Information on the history of the club with photos if possible.
+- Club History - Information on the history of the club with photos if possible.
 
-  - Links to Facebook, Instagram
+- Links to Facebook, Instagram
 
-  - Gallery of photos - displays art work from the club.
+- Gallery of photos - displays art work from the club.
 
-    ###### Nice to haves:
+  ###### Nice to haves:
 
-  - Class Scheduling version v2 - members are able to 'signup' for a class.
+- Class Scheduling version v2 - members are able to 'signup' for a class.
 
-  - Class Scheduling version v3 - members are able to 'signup' for a class and receive email notification.
+- Class Scheduling version v3 - members are able to 'signup' for a class and receive email notification.
 
-  - Gallery of photos v2 - displays art work from the club. Admin able to add/edit/remove via AWS S3.
+- Gallery of photos v2 - displays art work from the club. Admin able to add/edit/remove via AWS S3.
 
-  - Newsletter archive - Admin able to add/remove. Viewable by members.
+- Newsletter archive - Admin able to add/remove. Viewable by members.
 
-  - Newsletter archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
+- Newsletter archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Meeting minutes archive - Admin able to add/remove. Viewable by members.
+- Meeting minutes archive - Admin able to add/remove. Viewable by members.
 
-  - Meeting minutes archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
+- Meeting minutes archive v2 - Admin able to add/remove via AWS S3. Viewable by members.
 
-  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time.
+- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time.
 
-  - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
+- Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
 
-  - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
+- Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
 
-  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
+- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
-  - Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
+- Event scheduling - Admin able to add/edit/remove events such as exhibitions (Mongo DB)
 
-  - Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
+- Calendar of events - All upcoming events and classes displayed in a calendar type arrangement.
 
-  - Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
+- Kiln bookings - Admin able to add/edit/remove kiln availability. Members are able to book kiln time. (Mongo DB)
 
-- ##### Target audience
+##### Target audience
 
-  Primarily SOTRPC members and prospective members as well as anyone interested in Pottery.
+Primarily SOTRPC members and prospective members as well as anyone interested in Pottery.
 
-- ##### Tech stack GENERAL
+##### Tech stack GENERAL
 
-  ###### Backend:
+###### Backend:
 
-  Mongo DB
+- Mongo DB (Database with 5 collections)
 
-  Mongodb Atlas
 
-  Possibly AWS S3
+- Mongodb Atlas (Online hosting site for the DB)
+- Mongoose (Object Data Modeling library)
+- AWS S3 (Buckets for persistent storage of photos and files)
+- Axios (API connection for S3 Buckets)
+- Express (Node JS Framework)
+- Node JS  (Runtime environment)
+- Dotenv (Storing environment variables)
+- Passport (Authentication)
+- Express-session (Cookie storage middleware)
+- Heroku (Online host for back-end)
 
-  Express JS
 
-  Node JS
 
-  Jest
+###### Frontend:
 
-  Heroku
+- React (Front end library)
+- Cors (Allows cross origin whitelisting)
+- Nodemon (Development Server restarter)
+- Netlify (Online host for Front-end)
 
-  ###### Frontend:
 
-  React
 
-  Netlify
+###### Testing:
 
-  Jest
+- Jest (Back-end unit testing)
+- React testing library (Front end unit testing)
 
-  React Testing Library
 
-  ###### Documentation and Planning:
 
-  Trello
+###### Documentation and Planning:
 
-  Miro
+- Trello (Project planning)
+- Miro (Wireframe drawing application)
+- Lucid Chart (Dataflow and Architecture diagrams)
 
-  ERD:
 
-  ### Dataflow Diagram
+###### Workflow
+
+- Git (Version Control)
+- GitHub (Version Control Hosting)
+
+
+
+### Dataflow Diagram
 
 ![DataFlow Diagram](./docs/DFD.png)
 
-###### .0 to >5.0 pts
-
-###### Provides dataflow diagram(s) that strictly follow the standard convensions to clearly identify the processes within your application. Clearly depicts where data is coming from, where it is going and how it is being stored.
+###### 
 
 ### Application Architecture Diagram
 
 ![Application Architecture Diagram](./docs/AAD.png)
 
-###### 6.0 to >5.0 pts
-
-###### Shows almost flawless understanding of the high level structure of the app
+###### 
 
 ### User Stories
 
@@ -162,7 +172,7 @@ One day her husband told her about the nearby pottery club and she got very exci
 
 #### Sandra (Potential Member)
 
-Sandra is a nurse that is looking to start a new hobby. She has a cat called Mittens who she loves dearly and she thought about pottery and how she could do some sculpting. She has a friend in the club who has recommended that she take a look at the South of the River Potters Club website and perhaps take some classes. She's not very tech savvy but has been given a tablet for her birthday which she is enjoying. Sandra is keen to become a member and become more involved with the club if she enjoys the classes and other members. She's keen to discover more information about the club and what membership offers.
+Sandra is a nurse that is looking to start a new hobby. She has a cat called Mittens who she loves dearly and would like to immortalise in clay. She has a friend in the club who has recommended that she take a look at the South of the River Potters Club website and perhaps take some classes. She's not very tech savvy but has been given a tablet for her birthday which she is enjoying. Sandra is keen to become a member and become more involved with the club if she enjoys the classes and other members. She's keen to discover more information about the club and what membership offers.
 
 #### Sandra's stories
 
@@ -181,9 +191,7 @@ Sandra is a nurse that is looking to start a new hobby. She has a cat called Mit
 - View any minutes from club meetings until a member.
 - View any past newsletters until a member.
 
-###### 6.0 to >5.0 pts
-
-###### Provides multiple user stories that use ‘persona, what and why’ that outline meaningful features of project. Shows evidence of user story revision and refinement.
+###### 
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
 

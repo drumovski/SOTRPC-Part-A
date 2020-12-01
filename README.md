@@ -103,8 +103,6 @@ Primarily SOTRPC members and prospective members as well as anyone interested in
 - Lucid Chart (Dataflow and Architecture diagrams)
 
 
-![DataFlow Diagram](./docs/DFD.png)
-
 ###### Workflow
 
 - Git (Version Control)

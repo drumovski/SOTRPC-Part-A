@@ -200,6 +200,16 @@ Sandra is a nurse that is looking to start a new hobby. She has a friend in the 
 - Trello board Day-3.2
   ![Trello board Day-3](./docs/Trello-Day3.2.png)
 
+- Trello board Day-4.1
+  ![Trello board Day-4](./docs/Trello-Day4.1.png)
+
+- Trello board Day-4.2
+  ![Trello board Day-4](./docs/Trello-Day4.2.png)
+
 ###### 6.0 to >5.0 pts
 
 ###### Simple and clear standards for planning methodology chosen and adhered to
+
+```
+The End  🌱
+```

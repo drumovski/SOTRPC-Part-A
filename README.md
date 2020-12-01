@@ -120,15 +120,17 @@ Mark's son gave him an idea of having a good website for the club which could be
 
 #### Mark's stories 
 
-- I want to have complete rights to edit and remove the members so that I can manage and test the database.
-- I want the ability to update members paid status when they make a payment to the bank account.
-- I want the control to add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
-- I want the ability to upload or delete minutes allowing members to download them.
-- I want the ability to upload and or delete new newsletters so members can download them.
-- I want to be able to view the history of the club.
-- I want to be able to view the photos in the gallery to see examples of other members work.
-- I want the ability to add/remove photos to the gallery to allow other users to view them.
-- I want the ability to make other members admins so they can also assist me with maintaining the website.
+###### He wants to:
+
+- Have complete rights to edit and remove the members so that I can manage and test the database.
+- Update members paid status when they make a payment to the bank account.
+- Add, edit and remove the classes so that I can assist users to planing their schedule accordingly.
+- Upload or delete minutes allowing members to download them.
+- Upload and or delete new newsletters so members can download them.
+- View the history of the club.
+- View the photos in the gallery to see examples of other members work.
+- Add/remove photos to the gallery to allow other users to view them.
+- Make other members admins so they can also assist me with maintaining the website.
 
 
 
@@ -140,29 +142,44 @@ One day her husband told her about the nearby pottery club and she got very exci
 
 #### Julie's stories
 
-- I want a good user interface, so that I can navigate to different parts of the website easily.
-- I want my credentials to be persistent in the database so that I can log in and logout of my account securely.
-- I want to have a profile, so that I can edit my personal details.
-- I want to be able to view the history of the club.
-- I want to be able to view the photos in the gallery to see examples of other members work.
-- I should not be able to add or remove photos to the gallery.
-- I should not be able to view members details.
+###### She wants:
+
+- A good user interface, so that I can navigate to different parts of the website easily
+- Credentials to be persistent in the database so that I can log in and logout of my account securely.
+- A profile, so that I can edit my personal details.
+- To view the history of the club.
+- To view the photos in the gallery to see examples of other members work.
 - I want the ability to download minutes of the club meetings to see what was discussed.
 - I want the ability to download past newsletters in case I miss anything.
 
+###### She should not:
+
+- Be able to add or remove photos to the gallery.
+
+- Be able to view members details.
+
+  
+
 #### Sandra (Potential Member)
 
-Sandra is a nurse that is looking to start a new hobby. She has a friend in the club who has recommended that she take up pottery. She has a cat called Mittens. 
+Sandra is a nurse that is looking to start a new hobby. She has a cat called Mittens who she loves dearly and she thought about pottery and how she could do some sculpting. She has a friend in the club who has recommended that she take a look at the South of the River Potters Club website and perhaps take some classes. She's not very tech savvy but has been given a tablet for her birthday which she is enjoying. Sandra is keen to become a member and become more involved with the club if she enjoys the classes and other members. She's keen to discover more information about the club and what membership offers.
 
-- I want a good user interface, so that I can navigate to different parts of the website easily.
-- I want to be able to view the history of the club.
-- I want to be able to see what classes are available if I did become a member.
-- I want to be able to view the photos in the gallery to see examples of what  members create.
-- I should not be able to add or remove photos to the gallery.
-- I want the ability to sign up to become a member.
-- I should not be able to view members details.
-- I should not be able to view any minutes from club meetings.
-- I should not be able to view any past newsletters.
+#### Sandra's stories
+
+###### She wants to:
+
+- A good user interface, so that I can navigate to different parts of the website easily on my tablet.
+- View the history of the club so I can get an idea how long it has been going and how likely it will continue if I were to become a member.
+- See what classes are available if I did become a member.
+- View the photos in the gallery to see examples of what  members create.
+- Sign up to become a member if I should choose to do so.
+
+###### She should not:
+
+- Be able to add or remove photos to the gallery.
+- View members details.
+- View any minutes from club meetings until a member.
+- View any past newsletters until a member.
 
 
 
@@ -172,13 +189,79 @@ Sandra is a nurse that is looking to start a new hobby. She has a friend in the 
 
 ### Wireframes for multiple standard screen sizes, created using industry standard software
 
-[]: https://miro.com/app/board/o9J_lec-hEk=/
+
+
+Access Miro board here: https://miro.com/app/board/o9J_lec-hEk=/
 
 
 
-###### 12.0 to >10.0 pts
+![](docs/wireframes/1.png)
 
-###### Provides wireframes that show exceptional planning of project flow and structure including but not limited to space distribution, content prioritisation, intended actions, functions, relationships between screens.
+![](docs/wireframes/2.png)
+
+![](docs/wireframes/3.png)
+
+![](docs/wireframes/4.png)
+
+![](docs/wireframes/5.png)
+
+![](docs/wireframes/6.png)
+
+![](docs/wireframes/7.png)
+
+![](docs/wireframes/8.png)
+
+![](docs/wireframes/9.png)
+
+![](docs/wireframes/10.png)
+
+![](docs/wireframes/11.png)
+
+![](docs/wireframes/12.png)
+
+![](docs/wireframes/13.png)
+
+![](docs/wireframes/14.png)
+
+![](docs/wireframes/15.png)
+
+![](docs/wireframes/16.png)
+
+![](docs/wireframes/17.png)
+
+![](docs/wireframes/18.png)
+
+![](docs/wireframes/19.png)
+
+![](docs/wireframes/20.png)
+
+![](docs/wireframes/21.png)
+
+![](docs/wireframes/22.png)
+
+![](docs/wireframes/23.png)
+
+![](docs/wireframes/24.png)
+
+![](docs/wireframes/25.png)
+
+![](docs/wireframes/26.png)
+
+![](docs/wireframes/27.png)
+
+![](docs/wireframes/28.png)
+
+![](docs/wireframes/29.png)
+
+![](docs/wireframes/30.png)
+
+![](docs/wireframes/31.png)
+
+
+
+
+
+###### 
 
 ### Screenshots of your Trello board throughout the duration of the project
 

@@ -70,7 +70,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   Possibly AWS S3
 
-  Express
+  Express JS
 
   Node JS
 
@@ -84,7 +84,9 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   Netlify
 
-  Cypress
+  Jest
+
+  React Testing Library
 
   ###### Documentation and Planning:
 
@@ -96,7 +98,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ### Dataflow Diagram
 
-![DataFlow Diagram](./docs/dfd.png)
+![DataFlow Diagram](./docs/DFD.png)
 
 ###### .0 to >5.0 pts
 
@@ -283,6 +285,16 @@ Access Miro board here: https://miro.com/app/board/o9J_lec-hEk=/
 - Trello board Day-3.2
   ![Trello board Day-3](./docs/Trello-Day3.2.png)
 
+- Trello board Day-4.1
+  ![Trello board Day-4](./docs/Trello-Day4.1.png)
+
+- Trello board Day-4.2
+  ![Trello board Day-4](./docs/Trello-Day4.2.png)
+
 ###### 6.0 to >5.0 pts
 
 ###### Simple and clear standards for planning methodology chosen and adhered to
+
+```
+The End  🌱
+```

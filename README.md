@@ -76,6 +76,7 @@ Primarily SOTRPC members and prospective members as well as anyone interested in
 - Dotenv (Storing environment variables)
 - Passport (Authentication)
 - Express-session (Cookie storage middleware)
+- Nodemon (Development Server restarter)
 - Heroku (Online host for back-end)
 
 
@@ -84,7 +85,6 @@ Primarily SOTRPC members and prospective members as well as anyone interested in
 
 - React (Front end library)
 - Cors (Allows cross origin whitelisting)
-- Nodemon (Development Server restarter)
 - Netlify (Online host for Front-end)
 
 
@@ -298,10 +298,6 @@ Access Miro board here: https://miro.com/app/board/o9J_lec-hEk=/
 
 - Trello board Day-4.2
   ![Trello board Day-4](./docs/Trello-Day4.2.png)
-
-###### 6.0 to >5.0 pts
-
-###### Simple and clear standards for planning methodology chosen and adhered to
 
 ```
 The End  🌱

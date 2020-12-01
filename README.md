@@ -96,7 +96,7 @@ This is a Website for the South of the River Potters Club which is a pottery clu
 
   ### Dataflow Diagram
 
-![DataFlow Diagram](./docs/DFD.png)
+![DataFlow Diagram](./docs/dfd.png)
 
 ###### .0 to >5.0 pts
 
@@ -118,7 +118,7 @@ Mark is a 60 year old man, who has been living in Alfred Cove, Western Australia
 
 Mark's son gave him an idea of having a good website for the club which could be very beneficial for promoting the club to the next level. Mark gave the task of creating the website to Vipul and Jason who are the students at Coders Academy, Melbourne. Mark wants to have an admin functionality to the website so that he can perform certain tasks.
 
-#### Mark's stories 
+#### Mark's stories
 
 ###### He wants to:
 
@@ -131,8 +131,6 @@ Mark's son gave him an idea of having a good website for the club which could be
 - View the photos in the gallery to see examples of other members work.
 - Add/remove photos to the gallery to allow other users to view them.
 - Make other members admins so they can also assist me with maintaining the website.
-
-
 
 #### Julie (Member)
 
@@ -180,8 +178,6 @@ Sandra is a nurse that is looking to start a new hobby. She has a cat called Mit
 - View members details.
 - View any minutes from club meetings until a member.
 - View any past newsletters until a member.
-
-
 
 ###### 6.0 to >5.0 pts
 
@@ -280,6 +276,12 @@ Access Miro board here: https://miro.com/app/board/o9J_lec-hEk=/
 - Trello board Day-2.2
 
 ![Trello board Day-1](./docs/Trello-Day2.2.png)
+
+- Trello board Day-3.1
+  ![Trello board Day-3](./docs/Trello-Day3.1.png)
+
+- Trello board Day-3.2
+  ![Trello board Day-3](./docs/Trello-Day3.2.png)
 
 ###### 6.0 to >5.0 pts
 
